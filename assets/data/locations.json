@@ -1,0 +1,14 @@
+[
+  {
+    "id": "rumi_darwaza",
+    "title": "Rumi Darwaza",
+    "description": "A grand gateway in Lucknow...",
+    "imageFolder": "assets/images/rumi/"
+  },
+  {
+    "id": "residency",
+    "title": "The Residency",
+    "description": "A historic site of British presence...",
+    "imageFolder": "assets/images/residency/"
+  }
+]
