@@ -96,7 +96,7 @@ The application is designed to work completely offline, allowing tourists to acc
 ## Language Screen
 
 <p align="center">
-  <img src="screenshots/language-screen.png" width="800">
+  <img src="screenshots/language-screen.png" width="300">
 </p>
 
 ---
@@ -133,7 +133,7 @@ Users can select from the two historical attractions:
 ## The Residency
 
 <p align="center">
-  <img src="screenshots/residency.png" width="800">
+  <img src="screenshots/residency.jpg" width="800">
 </p>
 
 ### About
