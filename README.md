@@ -93,6 +93,12 @@ The application is designed to work completely offline, allowing tourists to acc
   <img src="screenshots/logo.png" width="220">
 </p>
 
+## Language Screen
+
+<p align="center">
+  <img src="screenshots/language-screen.png" width="800">
+</p>
+
 ---
 
 ## Welcome Screen
@@ -122,6 +128,12 @@ Users can select from the two historical attractions:
 
 <p align="center">
   <img src="screenshots/rumi-darwaza.png" width="800">
+</p>
+
+## The Residency
+
+<p align="center">
+  <img src="screenshots/residency.png" width="800">
 </p>
 
 ### About
